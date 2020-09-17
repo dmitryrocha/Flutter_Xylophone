@@ -1,4 +1,4 @@
-# Xylophone 🎹app
+# Xylophone🎹app
 
 ## Goal
 
